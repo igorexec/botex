@@ -1,2 +1,5 @@
-# botex
-Design system with &lt;3
+# Botex
+
+Design system with ❤️
+
+Design is in progress...
